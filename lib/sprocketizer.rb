@@ -1,1 +1,3 @@
-require 'sprocketizer/engine' if defined?(Rails) && Rails::VERSION::MAJOR == 3
+module Sprocketizer
+  require 'engine' if defined?(Rails) && Rails::VERSION::MAJOR == 3
+end

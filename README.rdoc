@@ -36,11 +36,11 @@ Note that you do NOT include a source_file configuration like you would with the
 
 Any javascript file you request that is not in your public/javascripts folder will be generated using sprockets. For example, a request to:
 	
-	http://example.com/javascripts/sprockets.js
+http://example.com/javascripts/sprockets.js
 	
 will attempt to render the file app/javascripts/sprockets.js using sprockets. You can also reference files in subdirectories with no problem:
 
-	http://example.com/javascripts/sprocket/another_file.js
+http://example.com/javascripts/sprocket/another_file.js
 	
 will render the file app/javascripts/sprocket/another_file.js
 
