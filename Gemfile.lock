@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sprocketizer (1.0)
+    sprocketizer (1.0.1)
       sprockets (= 1.0.2)
 
 GEM

@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency("sprockets", ["= 1.0.2"])
 
-  s.files        = Dir.glob("lib/**/*") + %w(README.rdoc)
+  s.files        = Dir.glob("app/**/*") + Dir.glob("config/**/*") + Dir.glob("lib/**/*") + %w(README.rdoc)
   s.require_path = 'lib'
 end
