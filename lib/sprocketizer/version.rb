@@ -1,3 +1,3 @@
-module MongoidSphinx #:nodoc
+module Sprocketizer
   VERSION = "0.0.1.pre.1"
 end
