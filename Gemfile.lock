@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    sprocketizer (0.0.1.pre.1)
+      sprockets (= 1.0.2)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    sprockets (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sprocketizer!
+  sprockets (= 1.0.2)
