@@ -1,6 +1,6 @@
 # Sprocketizer
 
-Sprocketizer is an flexible Sprockets gem for Rails 3.
+Sprocketizer is a flexible Sprockets gem for Rails 3.
 
 ## General info
 
@@ -10,6 +10,7 @@ http://github.com/sstephenson/sprockets-rails
 http://github.com/coderifous/dancing_with_sprockets
 
 The major differences are:
+  
   * It is flexible and configurable.
   * It is a gem. 
   * It is Rails 3 ONLY.
